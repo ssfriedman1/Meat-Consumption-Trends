@@ -17,5 +17,5 @@ I first had to find many datasets involving meat and animal product consumption,
 
 ### Data Cleaning ###
 While my final repository does not show it, I first begain my data cleaning by coding a manual way to add continent values to each of the data points in the dataset. This was an extremely time and code entensive task until I was able to understand and impliment the .mask function, which cut down my program to no more than 7 lines for the 7 continents. 
-![Mask Func](mask.png?raw=true "Mask Function")
+![Mask Func](/images/mask.png?raw=true "Mask Function")
 
