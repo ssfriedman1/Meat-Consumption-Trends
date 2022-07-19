@@ -16,6 +16,6 @@ To complete this project, I worked on my skills using some of the most important
 I first had to find many datasets involving meat and animal product consumption, which I found on: https://ourworldindata.org. I downloaded the datasets in the form of .csv files and opened them using my code editor of choice - VSCode. I then began the process of cleaning and analysing the data. 
 
 ### Data Cleaning ###
-While my final repository does not show it, I first begain my data cleaning by coding a manual way to add continent values to each of the data points in the dataset. This was an extremely time and code entensive task until I was able to understand and impliment the .mask function, which cut down my program to no more than 7 lines for the 7 continents. 
+While my final repository does not show it, I first begain my data cleaning by manually coding a method to add continent values to each of the data points in the dataset. This was an extremely time and code entensive task and was made completely useless when I learned to understand and impliment the .mask function, which cut down my program to no more than 7 lines for the 7 continents. 
 ![Mask Func](/images/mask.png?raw=true "Mask Function")
 
