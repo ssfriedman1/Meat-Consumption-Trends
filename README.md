@@ -31,7 +31,7 @@ For my first analysis, I wanted to explore the connection between GDP per capita
 ![First Graph](/images/first_graph.png?raw=true "First graph")
 
 ### Second Visual ###
-
+To better visualize the data, I first decided to only view one year, 2017 which was the data with the least missing values in terms of meat food supply quantity. This meant that that there was now only one data point per country. Additionally, I used a log scale on the x-axis to stretch out the data points closer to the origin and allow for more normal distribution of the data along the x-axis. 
 ![Sec Graph](/images/second_graph.png?raw=true "Second Graph")
 
 
