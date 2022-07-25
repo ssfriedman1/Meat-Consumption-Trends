@@ -2,6 +2,8 @@
 
 The goal of this project was to analyze the consumption of meat throughout the world with respect to different metrics - GDP, Livestock count, Population - with the goal to better understand which countries consume more meat and why. 
 
+Tableau Visual: https://public.tableau.com/app/profile/spencer.friedman/viz/PublicBook_16587712985720/Dashboard1?publish=yes
+
 ## WHY?
 As someone who recently started consuming a more plant based diet, I wanted to begin to understand what the meat consumption trends looked like world wide. I started with the assumption and knowledge that consumption of meat - especially red meat - was often a status symbol, and those with more money consumed more meat in general. As you will later see, my assumptions were spot on, and the relationship between GDP and meat consumption were linearly related. 
 
